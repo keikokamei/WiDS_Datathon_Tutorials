@@ -11,12 +11,13 @@ This tutorial is aimed to introduce basic data science skills and concepts to da
 
 If you do not already have Anaconda installed on your computer, **it is highly recommended that you first follow the "Anaconda Installation Guide" to download and install Anaconda to access your Jupyter Notebooks.** This will allow you to download and work interactively through your own copy of the tutorial notebooks, and it will set you up with an environment to tackle your datathon challenge should this be the data science platform you choose to use.  
 
-| Notebook                          | Summary                                                                             |
-|-----------------------------------|------------------------------------------------------------------------------------|
-| Anaconda Installation Guide       | Instructions for Anaconda installation & accessing tutorial notebooks on Jupyter   | 
-| 01_Intro_to_Jupyter               | Introduction to Jupyter Notebooks & Python                                         |
-| 02_Intro_to_DataStructures        | Python packages, data structures & basic statistics                                |
-| 03_More_DataStructures            | Dictionaries, Matrices & Pandas data manipulation                                  |
+| Notebook                                   | Summary                                                                             |
+|--------------------------------------------|------------------------------------------------------------------------------------|
+| Anaconda Installation Guide                | Instructions for Anaconda installation & accessing tutorial notebooks on Jupyter   | 
+| 00_WiDS_Datathon_Upskill_Workshop_10Jan23  | "From Couch to Jupyter" Upskill Workshop interactive notebook                      |
+| 01_Intro_to_Jupyter                        | Introduction to Jupyter Notebooks & Python                                         |
+| 02_Intro_to_DataStructures                 | Python packages, data structures & basic statistics                                |
+| 03_More_DataStructures                     | Dictionaries, Matrices & Pandas data manipulation                                  |
 
 <br><br>
 
